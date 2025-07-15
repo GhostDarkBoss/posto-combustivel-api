@@ -5,7 +5,8 @@ Tecnologias Utilizadas
 - Spring Data JPA
 - Banco de dados H2 (em memória)
 - Maven
-- Visual Studio Code (ou IDE de sua preferência)
+- Visual Studio Code
+- Postman 
 
 - Funcionalidades Implementadas
 
@@ -29,17 +30,20 @@ Tecnologias Utilizadas
   - Serviços com regras de negócio
   - Controladores REST
  
-  - Como Executar o Projeto
+ Como Executar o Projeto
 
 # Pré-requisitos
 
 Java 17 instalado  
 Maven instalado  
+Postman instalado
 
 # Passos
 
 Abra o projeto
 Execute a aplicação: mvn spring-boot:run
 API está rodando em: http://localhost:8080
+
+Abrir o postman para realizar os comandos (foi o que eu fiz)
 
 Desenvolvido por: Matheus Meggiolaro Bönmann
